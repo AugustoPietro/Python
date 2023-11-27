@@ -1,4 +1,4 @@
-# Git
+# Python
 Esses são alguns dos meus códigos em Python 3.
 
 Alguns pontos importantes a destacar:
